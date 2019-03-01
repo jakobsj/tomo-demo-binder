@@ -1,0 +1,6 @@
+name: tomo-demo
+channels:
+  - conda-forge
+  - astra-toolbox
+dependencies:
+  - python==2.7
